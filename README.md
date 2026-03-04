@@ -23,6 +23,7 @@
 > Uygulamanın çalışır halini görmek için aşağıdaki videoyu izleyebilirsiniz.
 
 📹 **[video/video.mp4](video/video.mp4)** — Uygulamanın tam demo kaydı
+      Youtube Linki : https://youtube.com/shorts/PDQtPoGwBro
 
 ---
 
