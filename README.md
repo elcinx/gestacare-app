@@ -18,6 +18,14 @@
 
 ---
 
+## 🎬 Tanıtım Videosu
+
+> Uygulamanın çalışır halini görmek için aşağıdaki videoyu izleyebilirsiniz.
+
+📹 **[video/video.mp4](video/video.mp4)** — Uygulamanın tam demo kaydı
+
+---
+
 ## 📱 Uygulama Özeti
 
 GestaCare, gestasyonel diyabet (gebelik şekeri) tanısı almış annelerin günlük sağlık takibini kolaylaştırmak amacıyla geliştirilmiş bir mobil uygulamadır. Uygulama, annelerin kan şekerini izlemesine, beslenme ve aktivitelerini kaydetmesine, eğitim içeriklerine erişmesine ve günlük anket doldurmasına olanak tanır.
