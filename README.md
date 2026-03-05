@@ -27,6 +27,14 @@
 
 ---
 
+## 📦 APK İndirme (Android İçin)
+
+Projenin derlenmiş en güncel Android APK dosyasına ulaşmak ve doğrudan cihazınıza kurmak için aşağıdaki bağlantıyı kullanabilirsiniz:
+
+📥 **[GestaCare Uygulamasını İndir (APK)](gestacare.apk)**
+
+---
+
 ## 📱 Uygulama Özeti
 
 GestaCare, gestasyonel diyabet (gebelik şekeri) tanısı almış annelerin günlük sağlık takibini kolaylaştırmak amacıyla geliştirilmiş bir mobil uygulamadır. Uygulama, annelerin kan şekerini izlemesine, beslenme ve aktivitelerini kaydetmesine, eğitim içeriklerine erişmesine ve günlük anket doldurmasına olanak tanır.
