@@ -29,7 +29,7 @@
 
 ## 📦 APK İndirme (Android İçin)
 
-Projenin derlenmiş en güncel Android APK dosyasına ulaşmak ve doğrudan cihazınıza kurmak için aşağıdaki bağlantıyı kullanabilirsiniz:
+Projenin derlenmiş en güncel Android APK dosyasına ulaşmak ve doğrudan cihazınıza kurmak için aşağıdaki bağlantıyı kullanabilirsiniz. *(Not: Bu APK, projenin kaynak kodlarından **Android Studio ve Gradle** kullanılarak derlenmiştir.)*
 
 📥 **[GestaCare Uygulamasını İndir (APK)](gestacare.apk)**
 
